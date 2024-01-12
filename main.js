@@ -32,3 +32,20 @@
 //console.log("kuning sirti:", s);
 
 
+//6-masala: Paralalapipetning hajmi va sirti
+//let a = 5
+//let b = 7
+//let c = 2
+//let v = a*b*c
+//let s = 2*(a*b+b*c+a*c)
+//console.log("Paralelpipetning hajmi:",v);
+//console.log("Paralelpipetning sirti:", s);
+
+
+//7-masala: Doiraning yuzasi va uzunligi
+//let r = 5
+//let p = 3.14
+//let l = 2*p*r
+//let s = p*r**2
+//console.log("Doiraning yuzasi:", l);
+//console.log("Doiraning uzunligi:", s);
