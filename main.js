@@ -49,3 +49,10 @@
 //let s = p*r**2
 //console.log("Doiraning yuzasi:", l);
 //console.log("Doiraning uzunligi:", s);
+
+
+//8-masala:Ikkita sonning o'rta arifmetigi
+//let a = 8 
+//let b = 4
+//let c = (a+b)/2
+//console.log("Ikkita sonning o'rta arifmetigi:",c);
