@@ -4,8 +4,8 @@
 // console.log("Kvadratning perimetri:", p);
 
 //2-masala: Kvadratning yuzasi
-// let s = 5
-// s = a**2
+// let a = 5
+// let s = a**2
 // console.log("Kvadratning yuzasi:", s);
 
 //3-masala: Kvadratning yuzasi va perimetri
@@ -18,7 +18,7 @@
 
 
 //4-masala: Aylananing uzunligi
-//let p = 3.14
+//let p = Math.PI
 //let d = 5
 //let l = p*d
 //console.log("Aylananing uzunligi", l);
@@ -57,5 +57,17 @@
 //let c = (a+b)/2
 //console.log("Ikkita sonning o'rta arifmetigi:",c);
 
+//9-masal:Ikkita manfiy bo'lmagan sonning o'rta geometrigi
+
+//10-masal: Nolga teng bo'lmagan ikkita sonning yig'indisi, ko'paytmasi va har birining kvadrati
+//let a = 5;
+//let b = 3;
+//let d = a * b;
+//let v = a + b;
+//let n = a / b;
+//console.log(d);
+//console.log(v);
+//console.log(n);
 
 
+//11-masala:Nolga teng bo'lmagan ikkita sonning yig'indisi, ko'paytmasi va moduli
