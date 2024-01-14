@@ -71,3 +71,14 @@
 
 
 //11-masala:Nolga teng bo'lmagan ikkita sonning yig'indisi, ko'paytmasi va moduli
+//let a = 120;
+//let b = 80;
+//let d = a * b;
+//let z = a / b;
+//let g = a - b;
+//let m = a + b;
+//console.log(d);
+//console.log(z);
+//console.log(g);
+//console.log(m);
+
